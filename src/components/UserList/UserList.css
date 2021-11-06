@@ -1,0 +1,35 @@
+.main-div {
+  border-radius: 5px;
+  border: 1px solid lightgrey;
+  margin: 20px auto;
+}
+
+.main-container {
+  width: 50%;
+  margin: 0px auto;
+}
+
+.flex-div {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-top: 5px;
+}
+
+.btn-container {
+  text-align: center;
+  margin-top: 15px;
+}
+
+.search-div input {
+  padding: 5px;
+  margin-right: 10px;
+}
+
+.single-user {
+  margin: 20px auto;
+  display: flex;
+  width: 80%;
+  border-bottom: 1px solid rgb(211, 211, 211);
+  padding-bottom: 15px;
+}
